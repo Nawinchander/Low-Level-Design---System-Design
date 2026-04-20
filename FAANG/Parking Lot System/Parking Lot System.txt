@@ -1,0 +1,15 @@
+Requirements
+
+park vehicle
+remove vehicle
+multiple vehicle types
+parking spot allocation
+fee calculation
+
+
+Classes Needed
+Vehicle
+ParkingSpot
+Ticket
+ParkingLot
+PricingStrategy
