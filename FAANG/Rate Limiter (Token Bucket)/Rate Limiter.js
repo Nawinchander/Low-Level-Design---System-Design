@@ -42,3 +42,19 @@ class RateLimiter {
 }
 
 
+// Interview Concepts Tested:
+// encapsulation
+// state management
+// hashmap design
+// time-based logic
+// Follow-up:
+
+// How to scale across servers?
+
+// Answer:
+
+// Store token state in Redis and use atomic LUA scripts for synchronization.
+
+// This enables distributed rate limiting.
+
+

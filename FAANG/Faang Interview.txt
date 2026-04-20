@@ -1,0 +1,71 @@
+Interview Answer Framework for LLD Questions
+
+Whenever asked to design a system:
+
+Step 1: Clarify requirements
+
+Example:
+
+scale?
+concurrency?
+extensibility?
+Step 2: Identify entities
+
+Example for parking lot:
+
+Vehicle
+Spot
+Ticket
+
+Step 3: Define responsibilities
+
+Use single responsibility
+
+Step 4: Identify relationships
+inheritance?
+composition?
+Step 5: Apply patterns
+Strategy
+Factory
+Observer
+Step 6: Discuss tradeoffs
+
+Example:
+
+“In-memory is fast but not distributed”
+
+8. Most Important Interview Tips
+Tip 1:
+
+Always talk before coding
+Interviewers evaluate thinking.
+
+Say:
+
+“First I’ll identify entities and relationships.”
+
+Tip 2:
+
+Use interfaces/abstraction
+
+Instead of:
+
+class PaymentService {}
+
+Use:
+
+class PaymentStrategy {}
+
+Shows extensibility.
+
+Tip 3:
+
+Mention SOLID explicitly
+
+Say:
+
+“I’m using strategy pattern to satisfy OCP.”
+
+This sounds senior-level.
+
+
