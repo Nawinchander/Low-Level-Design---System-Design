@@ -1,0 +1,44 @@
+Types of LLD designs
+A. Class Design
+
+Defines:
+
+entities
+properties
+methods
+
+Example:
+
+class User {
+  constructor(id, name) {
+    this.id = id;
+    this.name = name;
+  }
+}
+
+
+B. Sequence Design
+
+Defines how objects interact over time.
+
+Example:
+
+User -> OrderService -> PaymentService -> NotificationService
+C. Database LLD
+
+Defines:
+
+tables
+foreign keys
+indexes
+D. Behavioral LLD
+
+Uses patterns:
+
+Strategy
+Observer
+Factory
+State
+
+
+
