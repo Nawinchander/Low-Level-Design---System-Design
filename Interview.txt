@@ -22,3 +22,46 @@ d) Trade-offs
 
 Why did you choose this pattern?
 
+
+LLD Interview Questions and Answers
+Q1: What is LLD in system design?
+Answer:
+
+Low-Level Design defines the detailed internal design of modules, including classes, methods, interfaces, and object interactions.
+
+It converts business requirements into implementable object-oriented code.
+
+Q2: Difference between HLD and LLD?
+
+| HLD                    |                           LLD |
+| ---------------------- | ----------------------------: |
+| System architecture    |            Class architecture |
+| Components             |               Methods/classes |
+| Scalability focus      |    Code maintainability focus |
+| Example: Microservices | Example: PaymentService class |
+
+
+Q3: What are the important principles in LLD?
+Answer:
+SOLID principles
+Encapsulation
+Abstraction
+Composition over inheritance
+Design patterns
+
+These help build scalable and maintainable systems.
+
+Q4: What diagrams are used in LLD?
+Answer:
+Class Diagram
+Sequence Diagram
+ER Diagram
+Object Diagram
+
+Most interviews expect:
+
+Class diagram
+Sequence diagram
+
+
+
