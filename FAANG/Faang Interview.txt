@@ -69,3 +69,27 @@ Say:
 This sounds senior-level.
 
 
+
+Tip 4:
+
+Discuss scaling
+Even in LLD ask:
+
+DB?
+caching?
+distributed state?
+9. Senior-Level LLD Interview Questions
+
+Common FAANG LLD questions:
+
+Parking Lot
+Elevator System
+Rate Limiter
+ATM Machine
+Notification Service
+Cab Booking
+Vending Machine
+File System
+Chess Game
+Logger Framework
+
