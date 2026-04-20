@@ -14,3 +14,32 @@ design patterns
 
 It focuses on “how each component works internally”, whereas High-Level Design focuses on “how components interact overall.”
 
+1. Why LLD is used?
+
+LLD is used to:
+
+1. Define class/module structure
+
+It helps break a system into manageable classes/modules.
+
+2. Improve maintainability
+
+Good LLD makes code easier to extend and debug.
+
+3. Apply design principles
+
+It uses:
+
+SOLID principles
+Design patterns
+Clean architecture
+4. Convert HLD into implementable code
+
+HLD says:
+
+“We need payment service”
+
+LLD says:
+
+“PaymentService has processPayment(), validateCard(), createTransaction()”
+
