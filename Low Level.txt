@@ -1,0 +1,16 @@
+/// low level Design
+
+Low-Level Design (LLD) in System Design – Interview Point of View
+
+Low-Level Design (LLD) means designing the internal structure of a system, such as:
+
+classes
+objects
+methods
+interfaces
+database schema
+relationships
+design patterns
+
+It focuses on “how each component works internally”, whereas High-Level Design focuses on “how components interact overall.”
+
