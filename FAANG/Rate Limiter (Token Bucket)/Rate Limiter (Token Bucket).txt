@@ -1,0 +1,11 @@
+Requirements:
+
+allow requests up to limit
+refill tokens
+reject overflow
+
+
+Classes:
+TokenBucket
+RateLimiter
+
