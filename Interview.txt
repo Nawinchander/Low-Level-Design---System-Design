@@ -1,0 +1,24 @@
+Interviewer's expectation in LLD rounds
+
+In LLD interviews, interviewers check:
+
+a) Object-oriented thinking
+
+Can you model the problem with classes?
+
+b) Design principles
+
+Do you follow:
+
+SRP
+OCP
+Dependency Injection
+Encapsulation
+c) Extensibility
+
+Can your design support future requirements?
+
+d) Trade-offs
+
+Why did you choose this pattern?
+
